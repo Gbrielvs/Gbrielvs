@@ -2,10 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HELLO+WORLD!+👋;+Eu+sou+Gabriel+Alves+da+Silva!;" />
 </h1>
 
-  -    🔭 Atualmente estou trabalhando como estágiario de suporte ...
+  -    🔭 Atualmente estou trabalhando como Estágiario de Suporte na MTI (Empresa Mato-grossense de Tecnologia da Informação) 
     <br>
     
--  🌱  Estou estudando Engenharia da Computação e Ciências tecnologicas ...
+-  🌱   E Estou estudando Engenharia da Computação (UNIC) e Ciências tecnologicas EAD (UFMT)
   
    <br>
 
