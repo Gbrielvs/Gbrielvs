@@ -8,7 +8,9 @@
 -  🌱   E Estou estudando Engenharia da Computação (UNIC) e Ciências tecnologicas EAD (UFMT)
   
    <br>
-
+<h1 align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gbrielvs&theme=youtube-dark&border_radius=4.9&locale=pt_BR" alt="GitHub Streak" /></a>
+</h1>
   
 <div>
 <a href="https://www.instagram.com/gbrielvs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -28,6 +30,6 @@
     
 </div>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0054EA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F0100A&height=120&section=footer"/>
 
   
