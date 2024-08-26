@@ -2,11 +2,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=5000&lines=HELLO+WORLD!+👋;+Eu+sou+Gabriel+Alves+da+Silva!;" />
 </h1>
 
-  -    🔭 Atualmente estou trabalhando como Estágiario de Suporte na MTI (Empresa Mato-grossense de Tecnologia da Informação) 
+  -    🔭 Atualmente estou trabalhando como Estágiario da GERÊNCIA DE SUPORTE TÉCNICO (GSUP) na MTI - Empresa Mato-grossense de Tecnologia da Informação 
     <br>
     
 -  🌱   E Estou estudando Engenharia da Computação (UNIC) e Ciências tecnologicas EAD (UFMT)
-  
+-   🤔 Estou procurando ajuda com qual carreira seguir dentro da área.
    <br>
 <h1 align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gbrielvs&theme=youtube-dark&border_radius=4.9&locale=pt_BR" alt="GitHub Streak" /></a>
